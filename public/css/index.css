@@ -1,0 +1,43 @@
+.navbar{
+   /* height: 50px;*/
+}
+.container{
+    width: 800px;
+}
+.container-fluid{
+    padding-right: 0;
+    padding-left: 0;
+}
+.bg-light{
+    background-color: blue !important;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    border: 0;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+
+}
+.alert{
+    font-size: 30px;
+    color: blue;
+    font-family: sans-serif;
+}
+
+.pie{
+    text-align: center;
+    background-color: grey;
+    bottom:0;
+    width: 100%;
+    height: 50px;
+    color: white;
+    padding-top: 15px;
+}
+
+.pie-texto{ 
+    padding-left: 10px;
+    padding-right: 20px;
+}
+   
